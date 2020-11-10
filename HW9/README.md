@@ -5,10 +5,13 @@ New plot:
 
 ![New plot:](https://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus20_viz.jpg?raw=true)
 
+Figure 1: Bar plot of the prevalence of health factors in US cities. Data is shown as an average with error bars representing one standard deviation.
+
 Old plot:
 
 ![Old plot:](https://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus_20_box.png?raw=true)
 
+Figure 2: Box plot of health factors in US cities.
 
 Steps:
 1. Removed plot frame
