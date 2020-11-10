@@ -18,3 +18,4 @@ Steps:
 5. Tightened up white space
 6. Long x labels on a diagonal
 7. More descriptive title
+8. Box plot to bar plot
