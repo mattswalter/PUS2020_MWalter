@@ -12,7 +12,8 @@ Old plot:
 
 Steps:
 1. Removed plot frame
-2. Removed uneeded color
-3. Included error bars
-4. Tightened up white space
-5. Long x labels on a diagonal
+2. Removed grid
+3. Removed uneeded color
+4. Included error bars
+5. Tightened up white space
+6. Long x labels on a diagonal
