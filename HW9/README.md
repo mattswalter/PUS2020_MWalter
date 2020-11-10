@@ -17,3 +17,4 @@ Steps:
 4. Included error bars
 5. Tightened up white space
 6. Long x labels on a diagonal
+7. More descriptive title
