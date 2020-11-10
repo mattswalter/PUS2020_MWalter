@@ -2,4 +2,5 @@ I wanted to remake a chart from the midterm to visualize the city health data in
 
 New plot:
 pus_20_health_visualization.png
-https://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus_20_health_visualization.png
+
+![alt texthttps://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus_20_health_visualization.png?raw=true)
