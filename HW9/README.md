@@ -5,4 +5,4 @@ New plot:
 
 
 Old plot:
-![alt text](https://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus20_viz.jpg?raw=true)
+![alt text](https://github.com/smwalter96/PUS2020_MWalter/blob/master/HW9/pus_20_box.png?raw=true)
