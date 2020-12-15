@@ -1,6 +1,6 @@
-#Equity and Health Effects of Urban Green Space in the United States
+# Equity and Health Effects of Urban Green Space in the United States
 
-##Author: Matthew Walter
+## Author: Matthew Walter
 
 
 This project was completed at the University of Delaware for the class Principles of Urban Science, instructed by Dr. Federica Bianco.
