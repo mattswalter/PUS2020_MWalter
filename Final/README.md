@@ -2,6 +2,10 @@ Equity and Health Effects of Urban Green Space in the United States
 
 Author: Matthew Walter
 
+
+This project was completed at the University of Delaware for the class Principles of Urban Science, instructed by Dr. Federica Bianco.
+
+
 Abstract: Urban green spaces (UGS) are areas of vegetation within city centers that have been shown to have many health benefits and be essential to public health within cities. This project will use a normalized difference vegetation index (NDVI) to represent UGS and socioeconomic variables with a random forest regression model to understand how equitably UGS are spread across the United States. Socioeconomic variables and NDVI will also be used to predict health factors in cities such as diabetes, blood pressure, and heart disease.
 
 
@@ -46,4 +50,3 @@ Obesity: Percentage of the population with obesity
 Smoking: Percentage of the population who smokes cigarettes
 
 
-This project was completed at the University of Delaware for the class Principles of Urban Science, instructed by Dr. Federica Bianco.
